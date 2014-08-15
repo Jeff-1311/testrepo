@@ -1,0 +1,416 @@
+﻿CREATE TABLE [infTariff]
+(
+   [TariffNetNum] TINYINT NOT NULL,
+   [KindPay] NCHAR(1) NOT NULL,
+   [WorkerRate] FLOAT NOT NULL,
+   [HourCost] FLOAT NOT NULL
+);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 6, 19.91);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 6, 25.94);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 1.1, 9.141);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 1.1, 11.908);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 1.2, 9.232);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 1.2, 12.026);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 1.3, 9.323);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 1.3, 12.144);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 1.4, 9.414);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 1.4, 12.262);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 1.5, 9.505);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 1.5, 12.38);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 1.6, 9.596);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 1.6, 12.498);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 1.7, 9.687);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 1.7, 12.616);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 1.8, 9.778);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 1.8, 12.734);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 1.9, 9.869);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 1.9, 12.852);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 2.1, 10.231);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 2.1, 13.324);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 2.2, 10.502);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 2.2, 13.678);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 2.3, 10.773);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 2.3, 14.032);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 2.4, 11.044);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 2.4, 14.386);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 2.5, 11.315);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 2.5, 14.74);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 2.6, 11.586);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 2.6, 15.094);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 2.7, 11.857);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 2.7, 15.448);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 2.8, 12.128);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 2.8, 15.802);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 2.9, 12.399);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 2.9, 16.156);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 3.1, 12.896);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 3.1, 16.804);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 3.2, 13.122);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 3.2, 17.098);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 3.3, 13.348);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 3.3, 17.392);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 3.4, 13.574);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 3.4, 17.686);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 3.5, 13.8);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 3.5, 17.98);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 3.6, 14.026);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 3.6, 18.274);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 3.7, 14.252);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 3.7, 18.568);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 3.8, 14.478);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 3.8, 18.862);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 3.9, 14.704);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 3.9, 19.156);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 4.1, 15.157);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 4.1, 19.745);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 4.2, 15.384);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 4.2, 20.04);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 4.3, 15.611);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 4.3, 20.335);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 4.4, 15.838);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 4.4, 20.63);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 4.5, 16.065);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 4.5, 20.925);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 4.6, 16.292);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 4.6, 21.22);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 4.7, 16.519);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 4.7, 21.515);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 4.8, 16.746);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 4.8, 21.81);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 4.9, 16.973);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 4.9, 22.105);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 5.1, 17.471);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 5.1, 22.754);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 5.2, 17.742);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 5.2, 23.108);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 5.3, 18.013);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 5.3, 23.462);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 5.4, 18.284);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 5.4, 23.816);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 5.5, 18.555);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 5.5, 24.17);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 5.6, 18.826);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 5.6, 24.524);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 5.7, 19.097);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 5.7, 24.878);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 5.8, 19.368);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 5.8, 25.232);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 5.9, 19.639);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 5.9, 25.586);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 1, 9.45);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 1, 1);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 2, 10.4);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 1.1, 1.1);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 3, 13.23);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 1.2, 1.2);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 4, 15.59);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 1.3, 1.3);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 5, 17.96);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 1.4, 1.4);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 6, 20.79);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 1.5, 1.5);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 1.1, 9.545);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 1.6, 1.6);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 1.2, 9.64);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 1.7, 1.7);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 1.3, 9.735);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 1.8, 1.8);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 1.4, 9.83);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 1.9, 1.9);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 1.5, 9.925);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 2, 2);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 1.6, 10.02);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 2.1, 2.1);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 1.7, 10.115);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 2.2, 2.2);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 1.8, 10.21);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 2.3, 2.3);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 1.9, 10.305);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 2.4, 2.4);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 2.1, 10.683);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 2.5, 2.5);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 2.2, 10.966);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 2.6, 2.6);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 2.3, 11.249);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 2.7, 2.7);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 2.4, 11.532);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 2.8, 2.8);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 2.5, 11.815);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 2.9, 2.9);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 2.6, 12.098);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 3, 3);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 2.7, 12.381);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 3.1, 3.1);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 2.8, 12.664);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 3.2, 3.2);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 2.9, 12.947);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 3.3, 3.3);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 3.1, 13.466);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 3.4, 3.4);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 3.2, 13.702);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 3.5, 3.5);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 3.3, 13.938);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 3.6, 3.6);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 3.4, 14.174);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 3.7, 3.7);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 3.5, 14.41);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 3.8, 3.8);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 3.6, 14.646);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 3.9, 3.9);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 3.7, 14.882);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 4, 4);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 3.8, 15.118);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 4.1, 4.1);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 3.9, 15.354);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 4.2, 4.2);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 4.1, 15.827);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 4.3, 4.3);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 4.2, 16.064);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 4.4, 4.4);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 4.3, 16.301);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 4.5, 4.5);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 4.4, 16.538);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 4.6, 4.6);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 4.5, 16.775);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 4.7, 4.7);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 4.6, 17.012);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 4.8, 4.8);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 4.7, 17.249);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 4.9, 4.9);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 4.8, 17.486);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 5, 5);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 4.9, 17.723);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 5.1, 5.1);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 5.1, 18.243);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 5.2, 5.2);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 5.2, 18.526);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 5.3, 5.3);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 5.3, 18.809);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 5.4, 5.4);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 5.4, 19.092);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 5.5, 5.5);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 5.5, 19.375);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 5.6, 5.6);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 5.6, 19.658);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 5.7, 5.7);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 5.7, 19.941);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 5.8, 5.8);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 5.8, 20.224);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 5.9, 5.9);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'П', 5.9, 20.507);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (1, 'С', 6, 6);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 1, 9.05);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 1, 11.79);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 2, 9.96);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 2, 12.97);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 3, 12.67);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 3, 16.51);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 4, 14.93);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 4, 19.45);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'П', 5, 17.2);
+
+INSERT INTO [infTariff] ([TariffNetNum], [KindPay], [WorkerRate], [HourCost]) VALUES (2, 'С', 5, 22.4);
+
